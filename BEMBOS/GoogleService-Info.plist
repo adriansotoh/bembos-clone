@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>38912841533-qa17v3cu0rsv506jbl05am7a2rgq1u13.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38912841533-qa17v3cu0rsv506jbl05am7a2rgq1u13</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAj0bRPLxwihLfHrst6JYmW6l0dd5Q0zpw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38912841533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.pe.cibertec.BEMBOS</string>
+	<key>PROJECT_ID</key>
+	<string>bembosapp-7fd41</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bembosapp-7fd41.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38912841533:ios:2bcce6981cee30e064d754</string>
+</dict>
+</plist>
